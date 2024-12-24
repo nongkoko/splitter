@@ -7,7 +7,6 @@ if (args != null)
     aDict = aaahaha.ToDictionary();
 }
 
-
 var hasil = Console.ReadLine();
 aDict.TryGetValue("delimiter", out var tempDelimiter);
 var charArray = tempDelimiter.otherwise(";").ToCharArray();
