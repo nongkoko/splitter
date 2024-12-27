@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="jomiunsExtensions" Version="1.1.1" />
+    <PackageReference Include="jomiunsExtensions" Version="1.1.9" />
     <PackageReference Include="newtonsoft.json" Version="13.0.3" />
   </ItemGroup>
 

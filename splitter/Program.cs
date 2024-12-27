@@ -3,7 +3,7 @@
 Dictionary<string, string> aDict = new();
 if (args != null)
 {
-    var aaahaha = args.Select(oo => oo.toKeyValue<string, string>("="));
+    var aaahaha = args.Select(oo => oo.toKeyValue<string, string>(" "));
     aDict = aaahaha.ToDictionary();
 }
 

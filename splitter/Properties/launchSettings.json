@@ -2,7 +2,7 @@
   "profiles": {
     "splitter": {
       "commandName": "Project",
-      "commandLineArgs": "delimt=,.; something=uiok"
+      "commandLineArgs": "\"delimiter o\" quiet"
     }
   }
 }
